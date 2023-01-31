@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# lists the processes of all users on a system
+
+ps -faux
